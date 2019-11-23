@@ -6,6 +6,8 @@ To render locally, clone this repo, run `bundle exec jekyll serve`.
 
 Changes will be applied automatically by GitHub pages after each push.
 
+###  `docs` folder
+Copies of HTML files from various analyses can be put here for rendering. The `pre-commit.sh` script can be used to copy the relavent files from the relavent repositories.
 
 
 -------------------------
