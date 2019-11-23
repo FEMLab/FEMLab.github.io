@@ -1,5 +1,14 @@
-## Welcome to GitHub Pages
+# Running the website
 
+The site is rendered with github pages and Jekyll.  To locally build/test the site, follow the getting started instructions here: https://jekyllrb.com/docs/ .  In short, you will need to install ruby, and then the gems for "bundler" (which handles versions, etc found in the Gemfile) and "jekyll" (which handles the conversion of markdown to html.
+
+To render locally, clone this repo, run `bundle exec jekyll serve`.
+
+Changes will be applied automatically by GitHub pages after each push.
+
+
+
+-------------------------
 You can use the [editor on GitHub](https://github.com/FEMLab/FEMLab.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
